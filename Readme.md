@@ -7,8 +7,7 @@
   <samp>
 
   </samp>
-  <br>
-  <br>
+
  
    <img src="http://idanke.mysoft.jce.ac.il/Assests/ConexHull.jpeg" width="200"/>
   </p>
