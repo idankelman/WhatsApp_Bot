@@ -21,4 +21,4 @@ Steps of how to use :
 2. add it to PATH (inside global varibales)
 3. run the python script 
 4. a whatsapp window will automatically pop , sign in using what'sApp web  
-5. click enter and enjoy the program .
+5. click enter isnide the bot's terminal , and follow the instructions
