@@ -59,7 +59,7 @@ def WriteToUser():
 driver = webdriver.Chrome()
 driver.get('https://www.whatsapp.com')
 
-WhatsUp_Btn= driver.find_element_by_xpath('//*[@id="header-inner"]/nav/ul/li[1]/a')
+WhatsUp_Btn= driver.find_element_by_xpath('//*[@id="hide_till_load"]/div[1]/div[1]/header/div/div[2]/span[1]/a[1]/h5')
 WhatsUp_Btn.click()
 
 #================================================================================
