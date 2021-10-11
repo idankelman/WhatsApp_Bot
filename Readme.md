@@ -24,8 +24,12 @@ Steps of how to use :
 5. click enter isnide the bot's terminal , and follow the instructions
 
 
-![WhatsApp Image 2021-10-11 at 21 05 53](https://user-images.githubusercontent.com/80175752/136835469-69d934e4-9bea-47fd-a396-aedb4d6b8a3b.jpeg)
+
+![WhatsApp Image 2021-10-11 at 21 05 27](https://user-images.githubusercontent.com/80175752/136835735-e60499cd-6b93-4e2e-a567-9c7342cadcdd.jpeg)
 
 ![WhatsApp Image 2021-10-11 at 21 05 38](https://user-images.githubusercontent.com/80175752/136835732-434c20df-90da-4a26-81ef-06840f25443a.jpeg)
 
-![WhatsApp Image 2021-10-11 at 21 05 27](https://user-images.githubusercontent.com/80175752/136835735-e60499cd-6b93-4e2e-a567-9c7342cadcdd.jpeg)
+![WhatsApp Image 2021-10-11 at 21 05 53](https://user-images.githubusercontent.com/80175752/136835469-69d934e4-9bea-47fd-a396-aedb4d6b8a3b.jpeg)
+
+![WhatsApp Image 2021-10-11 at 21 06 12 (1)](https://user-images.githubusercontent.com/80175752/136835851-bab6ec12-4baa-4acd-b557-c9c214c8bdcb.jpeg)
+
